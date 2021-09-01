@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jtamondo
+- 👋 Hi, I’m @jtamondo (Justin Tamondong)
 - 👀 I’m interested in a summer internship 2022 or full time employement
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
