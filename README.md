@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jtamondo (Justin Tamondong)
-- 👀 I’m interested in a summer internship 2022 or full time employement
-- 🌱 I’m currently learning computer science
+- 👀 I’m interested in full time employement after spring 2022 
+- 🌱 I’m currently learning computer science at Dakota State University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: my email is jttam77@msn.com adnd phone is 651-352-3111
 
