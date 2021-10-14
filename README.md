@@ -2,7 +2,7 @@
 - 👀 I’m interested in full time employement after spring 2022 
 - 🌱 I’m currently learning computer science at Dakota State University
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: my email is jttam77@msn.com adnd phone is 651-352-3111
+- 📫 How to reach me: my email is jttam77@msn.com and phone is 651-352-3111
 
 <!---
 jtamondo/jtamondo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
